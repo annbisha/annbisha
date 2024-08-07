@@ -6,7 +6,7 @@ Education: National Technical University of Ukraine “Igor Sikorsky Kyiv Polyte
 
 Completed courses: A-level "Front-end"
 
-Skills:
+Skills:   
 Languages: HTML5, CSS3, JavaScript   
 Tools: React, jQuery   
 Git: GitHub, GitLab   
