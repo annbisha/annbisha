@@ -67,5 +67,5 @@ National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Insti
 
 ### 📫 **Get in Touch**
 
-- **Email:** [annskaylove@gmail.com](mailto:annskaylove@gmail.com)
+- **Email:** [annaanbinska@gmail.com](mailto:annaanbinska@gmail.com)
 - **LinkedIn:** [linkedin.com/in/anna-anbinska](https://www.linkedin.com/in/anna-anbinska)
