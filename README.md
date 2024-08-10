@@ -1,19 +1,71 @@
-Hi, I’m Anna Anbinska
+# Hi, I’m Anna Anbinska 👋
 
-I’m a frontend developer
+### Frontend Developer  
 
-Education: National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” - Automation Hardware and Software Department
+**🎓 Education:**  
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”  
+**Department:** Automation Hardware and Software
 
-Completed courses: A-level "Front-end"
+**📜 Completed Courses:**  
+- A-Level Ukraine "Front-end"
 
-Skills:   
-Languages: HTML5, CSS3, JavaScript   
-Tools: React, jQuery   
-Git: GitHub, GitLab   
-DB: MySQL, PSQL   
-CSS Preprocessors: SASS, SCSS   
-Responsive Design: Flexbox, Grid   
-Another: Figma, Canva, Adobe Photoshop   
-Microsoft office programm: Word, Excel, PP, Access, Visio
+---
 
-You can e-mail me anytime: annskaylove@gmail.com
+### 🛠️ **Skills**
+
+**Languages:**  
+- HTML5  
+- CSS3  
+- JavaScript  
+
+**Tools:**  
+- React  
+- jQuery  
+- Redux  
+- Router  
+
+**Version Control:**  
+- GitHub  
+- GitLab  
+
+**Databases:**  
+- MySQL  
+- PostgreSQL  
+- GraphQL  
+
+**CSS Preprocessors:**  
+- SASS  
+- SCSS  
+
+**Responsive Design:**  
+- Flexbox  
+- Grid  
+
+**Design Tools:**  
+- Figma  
+- Canva  
+- Adobe Photoshop  
+
+**Additional Skills:**  
+- Figma  
+- Canva  
+- Figma  
+- Adobe Photoshop
+  
+**Additional Skills:**  
+- REST API  
+- HTTP Methods  
+
+---
+
+### 🗣️ **Languages**
+
+- **Ukrainian:** Native Speaker  
+- **English:** Intermediate
+
+---
+
+### 📫 **Get in Touch**
+
+- **Email:** [annskaylove@gmail.com](mailto:annskaylove@gmail.com)
+- **LinkedIn:** [linkedin.com/in/anna-anbinska](https://www.linkedin.com/in/anna-anbinska)
