@@ -51,6 +51,9 @@ National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Insti
 - Canva  
 - Figma  
 - Adobe Photoshop
+- Jira
+- Linux
+- Postman
   
 **Additional Skills:**  
 - REST API  
